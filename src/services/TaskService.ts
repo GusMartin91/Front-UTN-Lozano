@@ -1,6 +1,6 @@
 import { Task } from "../types/Task";
 
-const BASE_URL = "https://back-utn-lozano.onrender.com";
+const BASE_URL = "https://back-utn-lozano.onrender.com/tasks";
 
 export const TaskService = {
   getAllTasks: async (): Promise<Task[]> => {
