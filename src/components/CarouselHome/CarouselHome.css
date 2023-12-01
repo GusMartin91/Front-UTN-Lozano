@@ -1,0 +1,7 @@
+.text-outline-white {
+  -webkit-text-stroke: 2px white; /* Ancho y color del borde (puedes ajustar el ancho según tus preferencias) */
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.8); /* Sombras para mejorar la legibilidad */
+}
